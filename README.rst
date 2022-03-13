@@ -1,3 +1,7 @@
+===Deatos Changes===
+3/12/2022 updated utils.py so it no longer crashes when logging in
+====================
+
 discord.py-self
 ===============
 
